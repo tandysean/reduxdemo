@@ -1,0 +1,14 @@
+Reducer is a function that
+
+good video explainations by the maker of redux. Dan Abramov
+
+components are mostly presentational components only concerned with how things look not how they behave.
+Redux has one store with all the state for the app.
+Reducer functions manage Actions
+
+Container components manage data.
+
+most parent component needs to know about the 
+
+
+https://www.youtube.com/watch?v=VJ38wSFbM3A
